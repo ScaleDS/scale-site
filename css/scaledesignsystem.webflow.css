@@ -216,6 +216,11 @@ label {
   position: relative;
 }
 
+.hero__content.is-left {
+  align-items: flex-start;
+  padding-left: 0%;
+}
+
 .button {
   height: 48px;
   text-align: center;
